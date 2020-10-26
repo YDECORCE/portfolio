@@ -1172,8 +1172,8 @@ border: 1px solid #CE1139;
     color: #3b5998;
 }
 
-.pinterest a:hover {
-    color: #cb2026;
+.linkedin a:hover {
+    color: rgb(10,102,194);
 }
 
 .gplus a:hover {
