@@ -376,14 +376,14 @@ p {
 
 .top_cont_outer {
     position: relative;
-    height: 750px;
+    height: 1000px;
     background: url('../img/home2.jpg') no-repeat;
     background-size: cover;
 }
 .top_cont_outer:before{content:'';position:absolute;top:0;width:100%;z-index:5;background: rgba(23, 26, 29, 0.85);height:100%;bottom:0;}
 .hero_section {
     position: relative;
-    padding-top: 72px;
+    padding-top: 150px;
     z-index: 5;
 }
 
@@ -816,6 +816,11 @@ img {
     margin-bottom: 60px;
 }
 
+.bloc_exp{
+    align-items: flex-start;
+    justify-content: center;
+    display: flex;
+}
 /* About Us
 --------------------------- */
  
