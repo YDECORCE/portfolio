@@ -376,7 +376,7 @@ p {
 
 .top_cont_outer {
     position: relative;
-    height: 1000px;
+    min-height: 1000px;
     background: url('../img/home2.jpg') no-repeat;
     background-size: cover;
 }
@@ -1877,7 +1877,12 @@ div.mc-image {
     display: inherit;
     padding: 0;
 }
+.bloc_exp{
+    min-height: 200px;
+    display: flex;
+    justify-content: space-around;
 
+}
 /*
    Media Queries
 --------------------------- */
