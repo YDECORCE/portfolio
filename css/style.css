@@ -233,7 +233,16 @@ p {
     line-height: 24px;
     margin: 0;
 }
-
+.lienmail{
+    font-size: 16px;
+    color: #ffffff;
+}
+.liencv{
+    font-size: 16px;
+    color: #888888;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
 /* Header Styles
 ---------------------------------*/
 
