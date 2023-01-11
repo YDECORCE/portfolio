@@ -111,7 +111,7 @@
                   <h3>Je développe du code en back-end...</h3>
                   <p>
                     Ma personnalité investigatrice, analyste, scientifique et organisatrice,une formation
-                    intensive de développeur Web / Web Mobile, une première expérience professionnelel réussie, fontt de moi un collaborateur enthousiaste dans le
+                    intensive de développeur Web / Web Mobile, une première expérience professionnelel réussie, font de moi un collaborateur enthousiaste dans le
                     domaine du Back-end.
                   </p>
                   <h3>Mes qualités</h3>
